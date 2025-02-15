@@ -1,0 +1,7 @@
+{
+    "Sami": {
+        bday: "12-08-17",
+        phone: "12345",
+        address: "53 Baker Street, London",
+    }
+}
